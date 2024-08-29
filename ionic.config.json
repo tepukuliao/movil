@@ -1,0 +1,7 @@
+{
+  "name": "merakiMovil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
